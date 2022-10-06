@@ -1,0 +1,7 @@
+Dice
+----
+
+CHANGES HISTORY
+---------------
+v1.0.0 - 28 January 2020
+- Initial release.

@@ -1,0 +1,7 @@
+Slots 3D
+--------
+
+CHANGES HISTORY
+---------------
+v1.0.0 - 12 August 2021
+- Initial release.

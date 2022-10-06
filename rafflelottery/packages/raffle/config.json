@@ -1,0 +1,16 @@
+{
+    "id": "raffle",
+    "name": "Raffle",
+    "type": "",
+    "description": "This add-on implements Raffles (lotteries).",
+    "providers": [
+        "Packages\\Raffle\\Providers\\PackageServiceProvider"
+    ],
+    "base_path": "raffle",
+    "source_path": "src",
+    "namespace": "Packages\\Raffle\\",
+    "static": {},
+    "purchase_url": "https://codecanyon.net/user/financialtechnology/portfolio",
+    "min_app_version": "1.5.1",
+    "hash": ""
+}

@@ -1,0 +1,7 @@
+Crypto Prediction
+-----------------
+
+CHANGES HISTORY
+---------------
+v1.0.0 - 26 June 2021
+- Initial release.

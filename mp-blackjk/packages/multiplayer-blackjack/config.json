@@ -1,0 +1,16 @@
+{
+    "id": "multiplayer-blackjack",
+    "name": "Multiplayer Blackjack",
+    "type": "game",
+    "description": "This add-on implements Multiplayer Blackjack game.",
+    "providers": [
+        "Packages\\MultiplayerBlackjack\\Providers\\PackageServiceProvider"
+    ],
+    "base_path": "multiplayer-blackjack",
+    "source_path": "src",
+    "namespace": "Packages\\MultiplayerBlackjack\\",
+    "static": {},
+    "purchase_url": "https://codecanyon.net/user/financialtechnology/portfolio",
+    "min_app_version": "1.3.6",
+    "hash": ""
+}

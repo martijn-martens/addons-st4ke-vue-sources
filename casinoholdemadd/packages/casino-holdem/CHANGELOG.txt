@@ -1,0 +1,7 @@
+Casino Hold'em
+--------------
+
+CHANGES HISTORY
+---------------
+v1.0.0 - 14 June 2020
+- Initial release.

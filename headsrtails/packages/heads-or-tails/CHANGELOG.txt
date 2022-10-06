@@ -1,0 +1,7 @@
+Heads or Tails
+--------------
+
+CHANGES HISTORY
+---------------
+v1.0.0 - 13 April 2020
+- Initial release.

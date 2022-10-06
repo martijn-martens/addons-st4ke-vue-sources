@@ -1,0 +1,7 @@
+Horse Racing
+------------
+
+CHANGES HISTORY
+---------------
+v1.0.0 - 29 October 2020
+- Initial release.

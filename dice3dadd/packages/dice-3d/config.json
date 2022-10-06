@@ -1,0 +1,16 @@
+{
+    "id": "dice-3d",
+    "name": "Dice 3D",
+    "type": "game",
+    "description": "This add-on implements Dice 3D game.",
+    "providers": [
+        "Packages\\Dice3D\\Providers\\PackageServiceProvider"
+    ],
+    "base_path": "dice-3d",
+    "source_path": "src",
+    "namespace": "Packages\\Dice3D\\",
+    "static": {},
+    "purchase_url": "https://codecanyon.net/user/financialtechnology/portfolio",
+    "min_app_version": "1.3.0",
+    "hash": ""
+}

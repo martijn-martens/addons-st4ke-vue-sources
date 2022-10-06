@@ -1,0 +1,16 @@
+{
+    "id": "slots",
+    "name": "Slots",
+    "type": "game",
+    "description": "This add-on implements Slots game.",
+    "providers": [
+        "Packages\\Slots\\Providers\\PackageServiceProvider"
+    ],
+    "base_path": "slots",
+    "source_path": "src",
+    "namespace": "Packages\\Slots\\",
+    "static": {},
+    "purchase_url": "",
+    "min_app_version": "1.0.0",
+    "hash": ""
+}

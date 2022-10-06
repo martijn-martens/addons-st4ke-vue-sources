@@ -1,0 +1,16 @@
+{
+    "id": "horse-racing",
+    "name": "Horse Racing",
+    "type": "game",
+    "description": "This add-on implements Horse Racing game.",
+    "providers": [
+        "Packages\\HorseRacing\\Providers\\PackageServiceProvider"
+    ],
+    "base_path": "horse-racing",
+    "source_path": "src",
+    "namespace": "Packages\\HorseRacing\\",
+    "static": {},
+    "purchase_url": "",
+    "min_app_version": "1.6.0",
+    "hash": ""
+}

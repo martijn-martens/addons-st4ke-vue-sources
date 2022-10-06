@@ -1,0 +1,7 @@
+Video Poker
+-----------
+
+CHANGES HISTORY
+---------------
+v1.0.0 - 24 January 2020
+- Initial release.

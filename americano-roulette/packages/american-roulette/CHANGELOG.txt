@@ -1,0 +1,7 @@
+American roulette
+-----------------
+
+CHANGES HISTORY
+---------------
+v1.0.0 - 28 February 2020
+- Initial release.

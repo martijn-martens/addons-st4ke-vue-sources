@@ -1,0 +1,7 @@
+3D Dice
+-------
+
+CHANGES HISTORY
+---------------
+v1.0.0 - 1 April 2020
+- Initial release.

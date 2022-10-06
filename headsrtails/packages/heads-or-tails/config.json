@@ -1,0 +1,16 @@
+{
+    "id": "heads-or-tails",
+    "name": "Heads Or Tails",
+    "type": "game",
+    "description": "This add-on implements Heads Or Tails game.",
+    "providers": [
+        "Packages\\HeadsOrTails\\Providers\\PackageServiceProvider"
+    ],
+    "base_path": "heads-or-tails",
+    "source_path": "src",
+    "namespace": "Packages\\HeadsOrTails\\",
+    "static": {},
+    "purchase_url": "https://codecanyon.net/user/financialtechnology",
+    "min_app_version": "1.3.3",
+    "hash": ""
+}
